@@ -15,9 +15,15 @@ As a first step, I have completed my first project - a PRETTY COOL Question Answ
 Highlights of the project: 
 
 🔥 Learned how to finetune OpenAI models using pdfs of text
+
 🔥 Learned how to leverage OpenAI's lanchain.llms for delivering precise answers
+
 🔥 Learned how to create intuitive UI interfaces using Streamlit
 
 I've got an arsenal of exciting projects lined up, each designed to deepen my understanding in HuggingFace, OpenAI, and LLMs. 
 
-For those affected by layoffs or still seeking full time roles: PUSHPUSHPUSH!!! 🚀 AI can never replace us!! We are here to stay. It's just that we have to push our brains to grow faster than we used to!!!! Small daily improvements, if done consistently over time, lead to stunning results!!!
+For those affected by layoffs or still seeking full time roles: PUSHPUSHPUSH!!! 
+
+🚀 AI can never replace us!! We are here to stay. It's just that we have to push our brains to grow faster than we used to!!!! 
+
+Small daily improvements, if done consistently over time, lead to stunning results!!!
